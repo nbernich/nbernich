@@ -1,5 +1,3 @@
-### 2nq
-
 University student. CS Major.
 
 This is my school account.
