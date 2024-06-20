@@ -1,5 +1,4 @@
-University student. CS Major.
+Hobbyist & Honors B.S. + Accelerated M.S. Computer Science @ University of New Hampshire
 
-This is my school account.
-
-Learning: Python, JS, Java
+Languages: Python, Javascript, Java, C, Rust
+Frameworks: React, Vue
