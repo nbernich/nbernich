@@ -1,14 +1,11 @@
 # Nathaniel Bernich
 
-## Contact
-- **Email**: nate@bernich.com
-- **LinkedIn** [nbernich](https://www.linkedin.com/in/nathaniel-bernich/)
-
 ## Education
 - **M.S. Computer Science**, University of New Hampshire (Expected Spring 2026)
 - **B.S. Computer Science**, University of New Hampshire (Expected Spring 2025)
 
 ## Experience
+- **TechStart Intern**, [Liberty Mutual Insurance](https://www.libertymutual.com/) (Accepted for Summer 2025)
 - **Programming Assistance Center Consultant**, University of New Hampshire (Spring 2024 - Present)
 - **Software Developer Intern**, [SubCom](https://www.subcom.com/) (Summer 2024)
 - **Data Structures and Algorithms Undergraduate TA**, University of New Hampshire (Fall 2023)
@@ -19,3 +16,7 @@
 - **Databases**: MongoDB | MySQL | SQLite
 - **Operating Systems**: Linux | Windows
 - **Other**: Git | Docker | Microsoft Office (Excel, PowerPoint, Word, Outlook, Teams) | Google Workspace (Sheets, Docs)
+
+## Contact
+- **Email**: nate@bernich.com
+- **LinkedIn** [nbernich](https://www.linkedin.com/in/nathaniel-bernich/)
