@@ -5,10 +5,10 @@
 - **B.S. Computer Science**, University of New Hampshire (Expected Spring 2025)
 
 ## Experience
-- **TechStart Intern**, [Liberty Mutual Insurance](https://www.libertymutual.com/) (Accepted for Summer 2025)
+- **TechStart Intern**, [Liberty Mutual Insurance](https://www.libertymutual.com/) (Summer 2025)
+- **Undergraduate Teaching Assistant**, University of New Hampshire (Fall 2023, Spring 2025)
 - **Programming Assistance Center Consultant**, University of New Hampshire (Spring 2024 - Present)
 - **Software Developer Intern**, [SubCom](https://www.subcom.com/) (Summer 2024)
-- **Data Structures and Algorithms Undergraduate TA**, University of New Hampshire (Fall 2023)
 
 ## Skills
 - **Programming Languages**: Python | Java | C | JavaScript/Node.js
