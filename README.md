@@ -2,7 +2,7 @@
 
 ## Education
 - **M.S. Computer Science**, University of New Hampshire (Expected Spring 2026)
-- **B.S. Computer Science**, University of New Hampshire (Expected Spring 2025)
+- **B.S. Computer Science**, University of New Hampshire (Spring 2025)
 
 ## Experience
 - **TechStart Intern**, [Liberty Mutual Insurance](https://www.libertymutual.com/) (Summer 2025)
